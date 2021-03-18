@@ -167,7 +167,7 @@ vertical: body pane on the botton</t>
     &lt;script&gt;
 
         // Also available as an ES module, see:
-        // https://revealjs.com/initialization/
+        // https://40823107.github.io/stage1-ag8/content/index.html/
         Reveal.initialize({
             controls: true,
             progress: true,
