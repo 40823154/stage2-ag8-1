@@ -163,7 +163,7 @@ vertical: body pane on the botton</t>
     &lt;script src="plugin/notes/notes.js"&gt;&lt;/script&gt;
     &lt;script src="plugin/search/search.js"&gt;&lt;/script&gt;
     &lt;script src="plugin/markdown/markdown.js"&gt;&lt;/script&gt;
-    &lt;script src="plugin/highlight/highlight.js"&gt;&lt;/script&gt;
+    &lt;script src="https://40823107.github.io/stage1-ag8/content/index.html"&gt;&lt;/script&gt;
     &lt;script&gt;
 
         // Also available as an ES module, see:
